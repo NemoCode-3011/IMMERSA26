@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Space Grotesk";
+  src: url("../fonts/static/SpaceGrotesk-Regular.ttf") format("truetype");
+}
+
+.space{
+  font-family: "Space Grotesk";
+}
