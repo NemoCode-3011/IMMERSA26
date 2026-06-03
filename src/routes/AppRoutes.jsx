@@ -7,7 +7,7 @@ import Schedule from "../pages/Schedule"
 import Speakers from "../pages/Speakers"
 import Tickets from "../pages/Tickets"
 import ContactUs from "../pages/ContactUs"
-import RegisterNow from "../pages/Registernow"
+import RegisterNow from "../pages/RegisterNow"
 import Confirmation from "../pages/Confirmation"
 
 const AppRoutes = () => {
