@@ -3164,10 +3164,19 @@ span[onClick] {
   }
 
   .md-pull-5 {
-    margin-top: -30px;
+    margin-top: -5px;
   }
   .md-pull-10 {
-    margin-top: -50px;
+    margin-top: -10px;
+  }
+  .md-pull-20 {
+    margin-top: -20px;
+  }
+  .md-pull-30 {
+    margin-top: -30px;
+  }
+  .md-pull-40 {
+    margin-top: -40px;
   }
 
   .md-px10 {

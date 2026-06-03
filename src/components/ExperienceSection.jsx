@@ -2,22 +2,22 @@ import ArrowRightIcon from 'mdi-react/ArrowRightIcon'
 function ExperienceSection() {
   return (
     <>
-      <div className="row down-10 xs-pull-10 ">
+      <div className="row down-10 md-pull-40 xs-pull-10 ">
         <div className="container">
           <div className="col-8 off-2 centered">
-            <div><span className="white px14 hidden-xs">WHAT TO EXPECT</span></div>
-            <div><span className="white px60 xs-px45 w-gradient">THE EXPERIENCE</span></div>
+            <div><span className="white px14 md-px20 hidden-xs">WHAT TO EXPECT</span></div>
+            <div><span className="white px60 xs-px45 md-px60 w-gradient">THE EXPERIENCE</span></div>
           </div>
-          <div className="row down-3 xs-down-5">
-            <div className="col-3 xs-6 exp-col">
+          <div className="row down-3 md-down-3 xs-down-5">
+            <div className="col-3 xs-6 md-6 exp-col">
               <div className="container">
                 <div className="flip-card">
                   <div className="flip-card-inner">
                     <div className="flip-card-front cards-img-1">
                       <div className="dd-scarf">
-                        <div className="container down-60 xs-down-90 centered">
-                          <div className="row"><span className="white px20 xs-px15">Gaming Arena</span></div>
-                          <div className="row down-3 "><span className="white px18 xs-px15">Compete, connect, and experience high-energy gaming like never before.</span></div>
+                        <div className="container md-down-50 down-60 xs-down-90 centered">
+                          <div className="row"><span className="white px20 md-px24 xs-px15">Gaming Arena</span></div>
+                          <div className="row down-3 "><span className="white px18 md-px20 xs-px15">Compete, connect, and experience high-energy gaming like never before.</span></div>
                         </div>
                       </div>
                     </div>
@@ -34,15 +34,15 @@ function ExperienceSection() {
               </div>
             </div>
 
-            <div className="col-3 xs-6 exp-col">
+            <div className="col-3 md-6 xs-6 exp-col">
               <div className="container">
                 <div className="flip-card">
                   <div className="flip-card-inner">
                     <div className="flip-card-front cards-img-2">
                       <div className="dd-scarf">
-                        <div className="container down-70  xs-down-100  centered">
-                          <div className="row"><span className="white px20 xs-px15">Creative Studio</span></div>
-                          <div className="row down-3"><span className="white px18 xs-px15">Design, Create, and explore the art behind digital experiences.</span></div>
+                        <div className="container down-70 md-down-50  xs-down-100  centered">
+                          <div className="row"><span className="white px20 md-px24 xs-px15">Creative Studio</span></div>
+                          <div className="row down-3"><span className="white px18 md-px20 xs-px15">Design, Create, and explore the art behind digital experiences.</span></div>
                         </div>
                       </div>
                     </div>
@@ -59,15 +59,15 @@ function ExperienceSection() {
               </div>
             </div>
 
-            <div className="col-3 xs-6 exp-col">
+            <div className="col-3 md-6 xs-6 exp-col">
               <div className="container">
                 <div className="flip-card">
                   <div className="flip-card-inner">
                     <div className="flip-card-front cards-img-3">
                       <div className="dd-scarf">
-                        <div className="container down-70  xs-down-100 centered">
-                          <div className="row"><span className="white px20 xs-px15">Developer Hub</span></div>
-                          <div className="row down-3"><span className="white px18 xs-px15">Build, experiment, and bring ideas to life through.</span></div>
+                        <div className="container down-70 md-down-50  xs-down-100 centered">
+                          <div className="row"><span className="white px20 md-px24 xs-px15">Developer Hub</span></div>
+                          <div className="row down-3"><span className="white px18 md-px20 xs-px15">Build, experiment, and bring ideas to life through.</span></div>
                         </div>
                       </div>
                     </div>
@@ -84,15 +84,15 @@ function ExperienceSection() {
               </div>
             </div>
 
-            <div className="col-3 xs-6 exp-col">
+            <div className="col-3 md-6 xs-6 exp-col">
               <div className="container">
                 <div className="flip-card">
                   <div className="flip-card-inner">
                     <div className="flip-card-front cards-img-4">
                       <div className="dd-scarf">
-                        <div className="container down-70 xs-down-90  centered">
-                          <div className="row"><span className="white px20 xs-px15">Immersive Zone</span></div>
-                          <div className="row down-3"><span className="white px18 xs-px15">Step into the future through interactive and immersive technologies.</span></div>
+                        <div className="container down-70 md-down-50 xs-down-90  centered">
+                          <div className="row"><span className="white px20 md-px24 xs-px15">Immersive Zone</span></div>
+                          <div className="row down-3"><span className="white px18 md-px20 xs-px15">Step into the future through interactive and immersive technologies.</span></div>
                         </div>
                       </div>
                     </div>
@@ -109,14 +109,14 @@ function ExperienceSection() {
               </div>
             </div>
 
-            <div className="row down-3">
+            <div className="row down-3 md-down-3">
               <div className="col-8 off-2 centered">
                 <div><span className="px24 white">....and so much more</span></div>
               </div>
             </div>
-            <div className="row down-3 xs-down-10">
+            <div className="row down-3 md-down-3 xs-down-10">
               <div className="col-8 off-2 centered">
-                <div><a className="btn-curved-5 white" href="/the-experience">Explore Full Experience <ArrowRightIcon className='icon-6'/></a></div>
+                <div><a className="btn-curved-5 white md-px24" href="/the-experience">Explore Full Experience <ArrowRightIcon className='icon-6'/></a></div>
               </div>
             </div>
 
