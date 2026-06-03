@@ -11,14 +11,14 @@ function CountDownTimer2() {
         </div>
         <div className="row xs-down-3 ">
           <div className="col-10 off-1 centered">
-            <div><span className='white px24 px170 xs-px60 w-gradient'><Countdown date={new Date('2026-05-01T14:00:00+02:00')} /></span></div>
+            <div><span className='white px24 px170 xs-px60 w-gradient'><Countdown date={new Date('2026-06-30T14:00:00+02:00')} /></span></div>
           </div>
         </div>
         <div className="row xs-down-2 ">
           <div className="col-8 off-2 centered">
             <div className='col-2 off-4'>
               <span><CalendarBlankOutlineIcon className='icon' /></span>
-              <span className='white text-after-icon w-gradient'>May 1, 2026</span>
+              <span className='white text-after-icon w-gradient'>Jun 20, 2026</span>
             </div>
             <div className='col-2 xs-row xs-down-2'>
               <span ><ClockOutlineIcon className='icon' /></span>
