@@ -5,9 +5,9 @@ import About from "../pages/About"
 import TheExperience from "../pages/TheExperience"
 import Schedule from "../pages/Schedule"
 import Speakers from "../pages/Speakers"
-import Tickets from "../pages/tickets"
+import Tickets from "../pages/Tickets"
 import ContactUs from "../pages/ContactUs"
-import RegisterNow from "../pages/registernow"
+import RegisterNow from "../pages/Registernow"
 import Confirmation from "../pages/Confirmation"
 
 const AppRoutes = () => {
