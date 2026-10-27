@@ -1,16 +1,39 @@
-# React + Vite
+# IMMERSA26
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+IMMERSA26 is a concept website for a fictional gaming event, designed around a distinctive, immersive visual identity and event-focused content.
 
-Currently, two official plugins are available:
+> **Project status:** Prototype. The current implementation needs a responsive-design pass before it should be presented as a polished, production-ready portfolio project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Built with
 
-## React Compiler
+- React
+- Vite
+- JavaScript
+- CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Run locally
 
-## Expanding the ESLint configuration
+Requirements: Node.js and npm.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
+```
+
+Create a production build:
+
+```bash
+npm run build
+npm run preview
+```
+
+## Next improvements
+
+- Rework layouts and navigation for mobile and tablet sizes.
+- Check typography, media, and spacing across common viewport widths.
+- Test the main user journey on touch devices.
+- Add screenshots and a live demo after the responsive rebuild.
+
+## Author
+
+Built by [NemoCode-3011](https://github.com/NemoCode-3011).
